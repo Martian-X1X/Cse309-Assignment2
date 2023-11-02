@@ -1,0 +1,20 @@
+body {
+	background: darkolivegreen;
+}
+
+.logo {
+	width: 100px;
+	height: 50px;
+
+}
+
+.navbar .nav-link 
+{
+     color: black !important; 
+     font-weight: bold;
+ }
+ .social-icon
+ {
+ 	width: 30px; 
+    height: auto; 
+ }
